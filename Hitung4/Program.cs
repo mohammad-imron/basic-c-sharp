@@ -1,0 +1,34 @@
+﻿// See https://aka.ms/new-console-template for more information
+int firstnumber;
+int secondnumber;
+int thirdnumber;
+int fourthnumber;
+int fifthnumber;
+int sixthnumber;
+int seventhnumber;
+int eighthnumber;
+int ninethnumber;
+int tenthnumber;
+
+Console.Write("Number-1 : ");
+firstnumber = int.Parse(Console.ReadLine());
+Console.Write("Number-2 : ");
+secondnumber = int.Parse(Console.ReadLine());
+Console.Write("Number-3 : ");
+thirdnumber = int.Parse(Console.ReadLine());
+Console.Write("Number-4 : ");
+fourthnumber = int.Parse(Console.ReadLine());
+Console.Write("Number-5 : ");
+fifthnumber = int.Parse(Console.ReadLine());
+Console.Write("Number-6 : ");
+sixthnumber = int.Parse(Console.ReadLine());
+Console.Write("Number-7 : ");
+seventhnumber = int.Parse(Console.ReadLine());
+Console.Write("Number-8 : ");
+eighthnumber = int.Parse(Console.ReadLine());
+Console.Write("Number-9 : ");
+ninethnumber = int.Parse(Console.ReadLine());
+Console.Write("Number-10 : ");
+tenthnumber = int.Parse(Console.ReadLine());
+var average = (firstnumber + secondnumber + thirdnumber + fourthnumber + fifthnumber + sixthnumber + seventhnumber + eighthnumber + ninethnumber + tenthnumber)/10 ;
+Console.WriteLine($"Total average is : {average}");

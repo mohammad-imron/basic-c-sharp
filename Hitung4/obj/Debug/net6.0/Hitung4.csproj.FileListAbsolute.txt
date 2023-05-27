@@ -1,0 +1,15 @@
+C:\Users\mohimron\csharpprojects\Hitung4\bin\Debug\net6.0\Hitung4.exe
+C:\Users\mohimron\csharpprojects\Hitung4\bin\Debug\net6.0\Hitung4.deps.json
+C:\Users\mohimron\csharpprojects\Hitung4\bin\Debug\net6.0\Hitung4.runtimeconfig.json
+C:\Users\mohimron\csharpprojects\Hitung4\bin\Debug\net6.0\Hitung4.dll
+C:\Users\mohimron\csharpprojects\Hitung4\bin\Debug\net6.0\Hitung4.pdb
+C:\Users\mohimron\csharpprojects\Hitung4\obj\Debug\net6.0\Hitung4.csproj.AssemblyReference.cache
+C:\Users\mohimron\csharpprojects\Hitung4\obj\Debug\net6.0\Hitung4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohimron\csharpprojects\Hitung4\obj\Debug\net6.0\Hitung4.AssemblyInfoInputs.cache
+C:\Users\mohimron\csharpprojects\Hitung4\obj\Debug\net6.0\Hitung4.AssemblyInfo.cs
+C:\Users\mohimron\csharpprojects\Hitung4\obj\Debug\net6.0\Hitung4.csproj.CoreCompileInputs.cache
+C:\Users\mohimron\csharpprojects\Hitung4\obj\Debug\net6.0\Hitung4.dll
+C:\Users\mohimron\csharpprojects\Hitung4\obj\Debug\net6.0\refint\Hitung4.dll
+C:\Users\mohimron\csharpprojects\Hitung4\obj\Debug\net6.0\Hitung4.pdb
+C:\Users\mohimron\csharpprojects\Hitung4\obj\Debug\net6.0\Hitung4.genruntimeconfig.cache
+C:\Users\mohimron\csharpprojects\Hitung4\obj\Debug\net6.0\ref\Hitung4.dll
