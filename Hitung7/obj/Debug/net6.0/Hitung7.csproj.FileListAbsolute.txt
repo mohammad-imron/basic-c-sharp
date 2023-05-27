@@ -1,0 +1,15 @@
+C:\Users\mohimron\csharpprojects\Hitung7\bin\Debug\net6.0\Hitung7.exe
+C:\Users\mohimron\csharpprojects\Hitung7\bin\Debug\net6.0\Hitung7.deps.json
+C:\Users\mohimron\csharpprojects\Hitung7\bin\Debug\net6.0\Hitung7.runtimeconfig.json
+C:\Users\mohimron\csharpprojects\Hitung7\bin\Debug\net6.0\Hitung7.dll
+C:\Users\mohimron\csharpprojects\Hitung7\bin\Debug\net6.0\Hitung7.pdb
+C:\Users\mohimron\csharpprojects\Hitung7\obj\Debug\net6.0\Hitung7.csproj.AssemblyReference.cache
+C:\Users\mohimron\csharpprojects\Hitung7\obj\Debug\net6.0\Hitung7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohimron\csharpprojects\Hitung7\obj\Debug\net6.0\Hitung7.AssemblyInfoInputs.cache
+C:\Users\mohimron\csharpprojects\Hitung7\obj\Debug\net6.0\Hitung7.AssemblyInfo.cs
+C:\Users\mohimron\csharpprojects\Hitung7\obj\Debug\net6.0\Hitung7.csproj.CoreCompileInputs.cache
+C:\Users\mohimron\csharpprojects\Hitung7\obj\Debug\net6.0\Hitung7.dll
+C:\Users\mohimron\csharpprojects\Hitung7\obj\Debug\net6.0\refint\Hitung7.dll
+C:\Users\mohimron\csharpprojects\Hitung7\obj\Debug\net6.0\Hitung7.pdb
+C:\Users\mohimron\csharpprojects\Hitung7\obj\Debug\net6.0\Hitung7.genruntimeconfig.cache
+C:\Users\mohimron\csharpprojects\Hitung7\obj\Debug\net6.0\ref\Hitung7.dll
