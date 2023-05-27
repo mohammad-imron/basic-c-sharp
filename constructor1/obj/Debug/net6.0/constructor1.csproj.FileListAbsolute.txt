@@ -1,0 +1,15 @@
+C:\Users\mohimron\csharpprojects\constructor1\obj\Debug\net6.0\constructor1.csproj.AssemblyReference.cache
+C:\Users\mohimron\csharpprojects\constructor1\obj\Debug\net6.0\constructor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohimron\csharpprojects\constructor1\obj\Debug\net6.0\constructor1.AssemblyInfoInputs.cache
+C:\Users\mohimron\csharpprojects\constructor1\obj\Debug\net6.0\constructor1.AssemblyInfo.cs
+C:\Users\mohimron\csharpprojects\constructor1\obj\Debug\net6.0\constructor1.csproj.CoreCompileInputs.cache
+C:\Users\mohimron\csharpprojects\constructor1\bin\Debug\net6.0\constructor1.exe
+C:\Users\mohimron\csharpprojects\constructor1\bin\Debug\net6.0\constructor1.deps.json
+C:\Users\mohimron\csharpprojects\constructor1\bin\Debug\net6.0\constructor1.runtimeconfig.json
+C:\Users\mohimron\csharpprojects\constructor1\bin\Debug\net6.0\constructor1.dll
+C:\Users\mohimron\csharpprojects\constructor1\bin\Debug\net6.0\constructor1.pdb
+C:\Users\mohimron\csharpprojects\constructor1\obj\Debug\net6.0\constructor1.dll
+C:\Users\mohimron\csharpprojects\constructor1\obj\Debug\net6.0\refint\constructor1.dll
+C:\Users\mohimron\csharpprojects\constructor1\obj\Debug\net6.0\constructor1.pdb
+C:\Users\mohimron\csharpprojects\constructor1\obj\Debug\net6.0\constructor1.genruntimeconfig.cache
+C:\Users\mohimron\csharpprojects\constructor1\obj\Debug\net6.0\ref\constructor1.dll

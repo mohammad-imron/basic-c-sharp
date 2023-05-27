@@ -1,0 +1,15 @@
+C:\Users\mohimron\csharpprojects\constructor3\obj\Debug\net6.0\constructor3.csproj.AssemblyReference.cache
+C:\Users\mohimron\csharpprojects\constructor3\obj\Debug\net6.0\constructor3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohimron\csharpprojects\constructor3\obj\Debug\net6.0\constructor3.AssemblyInfoInputs.cache
+C:\Users\mohimron\csharpprojects\constructor3\obj\Debug\net6.0\constructor3.AssemblyInfo.cs
+C:\Users\mohimron\csharpprojects\constructor3\obj\Debug\net6.0\constructor3.csproj.CoreCompileInputs.cache
+C:\Users\mohimron\csharpprojects\constructor3\bin\Debug\net6.0\constructor3.exe
+C:\Users\mohimron\csharpprojects\constructor3\bin\Debug\net6.0\constructor3.deps.json
+C:\Users\mohimron\csharpprojects\constructor3\bin\Debug\net6.0\constructor3.runtimeconfig.json
+C:\Users\mohimron\csharpprojects\constructor3\bin\Debug\net6.0\constructor3.dll
+C:\Users\mohimron\csharpprojects\constructor3\bin\Debug\net6.0\constructor3.pdb
+C:\Users\mohimron\csharpprojects\constructor3\obj\Debug\net6.0\constructor3.dll
+C:\Users\mohimron\csharpprojects\constructor3\obj\Debug\net6.0\refint\constructor3.dll
+C:\Users\mohimron\csharpprojects\constructor3\obj\Debug\net6.0\constructor3.pdb
+C:\Users\mohimron\csharpprojects\constructor3\obj\Debug\net6.0\constructor3.genruntimeconfig.cache
+C:\Users\mohimron\csharpprojects\constructor3\obj\Debug\net6.0\ref\constructor3.dll
